@@ -1,0 +1,8 @@
+*.meta
+apk
+Library
+Logs
+obj
+.vs
+*.csproj
+UIFromwork.sln
